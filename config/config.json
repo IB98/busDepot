@@ -1,6 +1,6 @@
 {
-    "port": 3000,
-    "mongoose": {
-      "uri": "mongodb+srv://IB98:Creoment3!@cluster0-lw2cy.mongodb.net/BusDepot?retryWrites=true"
-    }
+  "port": 3000,
+  "mongoose": {
+    "uri": "mongodb+srv://IB98:Creoment3!@cluster0-lw2cy.mongodb.net/BusDepot?retryWrites=true"
   }
+}
